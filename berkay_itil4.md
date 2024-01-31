@@ -1,4 +1,5 @@
 # ITIL4 Uitleg
+![ITIL4 Schema](https://raw.githubusercontent.com/berkayhu/les11/main/What-is-ITIL-4-Complete-Guide.webp)
 
 ## Inhoudsopgave
 1. [Wat is ITIL4?](#wat-is-itil4)
